@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/LtwkKTv/blog-cover-01.jpg",
+      "title": "Lorem Ipsum",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_date": "2024-03-04",
+      "reading_time": 10,
+      "hashtags": ["technology", "programming", "webdev"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/dtRPCJ1/blog-cover-02.jpg",
+      "title": "Dolor Sit Amet",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "2024-03-03",
+      "reading_time": 8,
+      "hashtags": ["coding", "javascript", "react"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/RcPLjxG/blog-cover-03.jpg",
+      "title": "Consectetur Adipiscing",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "2024-03-02",
+      "reading_time": 12,
+      "hashtags": ["python", "data-science", "machine-learning"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/LtwkKTv/blog-cover-01.jpg",
+      "title": "Sed Do Eiusmod",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "2024-03-01",
+      "reading_time": 6,
+      "hashtags": ["design", "UI/UX", "graphic-design"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/dtRPCJ1/blog-cover-02.jpg",
+      "title": "Lorem Ipsum",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "2024-02-29",
+      "reading_time": 15,
+      "hashtags": ["technology", "programming", "webdev"]
+    }
+  ]
+  
